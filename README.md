@@ -1,4 +1,7 @@
 # QT_Study_SmallGame
+## advance
+由于很多资料都是从前人那搬过来的，如果侵权，我立刻删除![N~67FLH0L7)W(QOK58%JM(N](https://user-images.githubusercontent.com/46807204/197925112-49862c64-0b96-4d63-80da-aa7efdee4eb7.gif)
+
 课程链接：https://www.bilibili.com/video/BV1g4411H78N?p=63&vd_source=1aea9871e1065286efe559677df1eedf
 ## introduction
   
