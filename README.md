@@ -6,7 +6,7 @@
 
   演示：
 
-            ![play](https://user-images.githubusercontent.com/46807204/197924220-7b02ad57-f4cc-4a4f-85f8-c0e049e45fbc.gif)
+![play](https://user-images.githubusercontent.com/46807204/197924220-7b02ad57-f4cc-4a4f-85f8-c0e049e45fbc.gif)
 ### how to use
   - 下载zip，在QT中导入项目，对照课程视频学习。
   - 课程项目：对照word教程自己完成
