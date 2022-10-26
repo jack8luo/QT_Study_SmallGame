@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>banner.jpeg</file>
+        <file>banner11.jpeg</file>
+        <file>banner22.jpeg</file>
+        <file>img.qrc</file>
+        <file>img1.jpg</file>
+        <file>img2.jpg</file>
+        <file>litta.png</file>
+        <file>surfinle.png</file>
+        <file>vipp.png</file>
+    </qresource>
+</RCC>

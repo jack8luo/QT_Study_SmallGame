@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#pushButton{
+    background: pink;
+    border: 1px blue solid;
+    color: red;
+}
+#MainWindow{
+    background: skyblue;
+    font-family:"镊子面包手指体";
+    font-size: 16px;
+    font-weight: bolder;
+    border: 1px blue solid;
+}
+
+#my_label_text_center{
+    color: rgba(27, 27, 27, 0.75);
+    font-size: 16px;
+}
+
+
+MyCoin:checked{
+    border: 2px white solid;
+}

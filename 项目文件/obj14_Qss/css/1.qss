@@ -1,0 +1,20 @@
+#MainWindow{
+    background: skyblue;
+    font-size: 16px;
+    border: 1px blue solid;
+}
+
+#pushButton{
+    background: pink;
+    border: 4px blue solid;
+    color: red;
+}
+
+
+
+#pushButton:pressed{
+color:#3288E8;
+border-color: #3288E8;
+}
+
+
